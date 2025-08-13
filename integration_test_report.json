@@ -1,0 +1,72 @@
+{
+  "test_summary": {
+    "total_tests": 10,
+    "passed_tests": 9,
+    "failed_tests": 1,
+    "success_rate": 90.0
+  },
+  "test_results": [
+    {
+      "test_name": "情感引擎",
+      "success": true,
+      "message": "所有情感處理功能正常",
+      "timestamp": "2025-08-13T15:17:51.696878"
+    },
+    {
+      "test_name": "記憶系統",
+      "success": true,
+      "message": "所有記憶功能正常",
+      "timestamp": "2025-08-13T15:17:51.707171"
+    },
+    {
+      "test_name": "語音系統",
+      "success": true,
+      "message": "所有語音功能正常",
+      "timestamp": "2025-08-13T15:17:53.708116"
+    },
+    {
+      "test_name": "3D模型系統",
+      "success": true,
+      "message": "所有3D模型功能正常",
+      "timestamp": "2025-08-13T15:17:58.711698"
+    },
+    {
+      "test_name": "AR渲染器",
+      "success": true,
+      "message": "所有AR功能正常",
+      "timestamp": "2025-08-13T15:17:58.711970"
+    },
+    {
+      "test_name": "完整對話流程",
+      "success": true,
+      "message": "對話流程整合正常",
+      "timestamp": "2025-08-13T15:17:58.715047"
+    },
+    {
+      "test_name": "情感記憶整合",
+      "success": true,
+      "message": "情感與記憶整合正常",
+      "timestamp": "2025-08-13T15:17:58.717279"
+    },
+    {
+      "test_name": "語音情感整合",
+      "success": true,
+      "message": "語音與情感整合正常",
+      "timestamp": "2025-08-13T15:17:58.717615"
+    },
+    {
+      "test_name": "後端API",
+      "success": false,
+      "message": "後端服務未運行",
+      "timestamp": "2025-08-13T15:18:03.725884"
+    },
+    {
+      "test_name": "前後端整合",
+      "success": true,
+      "message": "前端服務正常運行",
+      "timestamp": "2025-08-13T15:18:03.734603"
+    }
+  ],
+  "generated_at": "2025-08-13T15:18:03.734858",
+  "overall_status": "FAIL"
+}
